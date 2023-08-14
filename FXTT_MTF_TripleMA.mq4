@@ -1,5 +1,5 @@
-//+------------------------------------------------------------------+
-//|                                      FXTT_MTF_BollingerBands.mq4 |
+//+-fffffffff-----------------------------------------------------------------+
+//|             fgghffgdgffgfhnhjngcv dsvg fbmjnnbzx                         FXTT_MTF_BollingerBands.mq4 |
 //|                                  Copyright 2016, Carlos Oliveira |
 //|                                         https://www.forextradingtools.eu |
 //+------------------------------------------------------------------+
